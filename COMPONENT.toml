@@ -3,7 +3,7 @@ name = "SigmaOS-keyboard-layout-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "keyboard-layout-management component"
+description = "Keyboard Layout Management"
 upstream = []
 
 [contract]
